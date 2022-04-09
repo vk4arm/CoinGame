@@ -1,1 +1,1 @@
-This is my final qualifying work in LETI University
+This is my final qualifying work in ETU University
